@@ -1,0 +1,7 @@
+mcp[cli]
+mcp-use
+langchain
+langchain-groq
+httpx
+streamlit
+nest_asyncio
